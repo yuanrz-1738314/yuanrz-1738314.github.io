@@ -4,6 +4,7 @@ body {
 
 div {
     border: dotted;
+    border-radius: 25px;
 }
 
 .ischool{
